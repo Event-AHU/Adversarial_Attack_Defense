@@ -139,8 +139,7 @@ Boheng Li, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li
   
 * [CVPR 2024] **Learning to Transform Dynamically for Better Adversarial Transferability**
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Learning_to_Transform_Dynamically_for_Better_Adversarial_Transferability_CVPR_2024_paper.pdf)] 
-  [[Paper](https:
-//github.com/ZhangAIPI/TransferAttack)] 
+  [[Code](https://github.com/ZhangAIPI/TransferAttack)] 
   
 * [CVPR 2024] **Boosting Adversarial Training via Fisher-Rao Norm-based Regularization**
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Boosting_Adversarial_Training_via_Fisher-Rao_Norm-based_Regularization_CVPR_2024_paper.pdf)]
