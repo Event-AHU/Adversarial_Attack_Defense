@@ -11,6 +11,10 @@
 #### Year 2024 
 
 
+* [arXiv:2409.12394] **ITPatch: An Invisible and Triggered Physical Adversarial Patch against Traffic Sign Recognition**,
+  Shuai Yuan, Hongwei Li, Xingshuo Han, Guowen Xu, Wenbo Jiang, Tao Ni, Qingchuan Zhao, Yuguang Fang
+  [[Paper](https://arxiv.org/abs/2409.12394)] 
+  
 * [CVPR 2024] **IDGuard: Robust General Identity-centric POI Proactive Defense Against Face Editing Abuse**
 Yunshu Dai, Jianwei Fei, Fangjun Huang
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Dai_IDGuard_Robust_General_Identity-centric_POI_Proactive_Defense_Against_Face_Editing_CVPR_2024_paper.pdf)]
