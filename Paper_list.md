@@ -11,6 +11,10 @@
 #### Year 2024 
 
 
+* [NIPS 2019] **Cross-modal learning with adversarial samples**.
+  Advances in neural information processing systems, 32. Li, C., Gao, S., Deng, C., Xie, D., & Liu, W. (2019). 
+  [[Paper](https://proceedings.neurips.cc/paper/2019/hash/d384dec9f5f7a64a36b5c8f03b8a6d92-Abstract.html)] 
+  
 * [arXiv:2409.12394] **ITPatch: An Invisible and Triggered Physical Adversarial Patch against Traffic Sign Recognition**,
   Shuai Yuan, Hongwei Li, Xingshuo Han, Guowen Xu, Wenbo Jiang, Tao Ni, Qingchuan Zhao, Yuguang Fang
   [[Paper](https://arxiv.org/abs/2409.12394)] 
