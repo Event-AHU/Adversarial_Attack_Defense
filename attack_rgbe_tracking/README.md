@@ -51,7 +51,7 @@ bash Attack_RGB_Event_Frame/test.sh
 
 I modified the corresponding evaluation script based on [CEUTrack](https://github.com/Event-AHU/COESOT). You can get it in  [CEUTrack_Evaluation](https://pan.quark.cn/s/48ff74442e17).
 
-1.To obtain the evaluation results of PR, SR, and NPR metrics, modify the tracking_type parameter in the Evaluate_COESOT_benchmark_SP_RR_Only.m script and execute it.
+1.To obtain the evaluation results of PR, SR, and NPR metrics, modify the tracking_type parameter in the `Evaluate_COESOT_benchmark_SP_RR_Only.m` script and execute it.
 
 2.run `Evaluate_FELT_benchmark_attributes.m` for attributes analysis and figure saved in `$/res_fig/`. 
 
