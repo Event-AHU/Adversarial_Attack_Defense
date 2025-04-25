@@ -54,8 +54,6 @@ bash Attack_RGB_Event_Frame/test.sh
 ```
 ```
 
-
-
 # :triangular_ruler: Evaluation Toolkit
 
 我基于 [CEUTrack](https://github.com/Event-AHU/COESOT) 修改了对应的评测脚本。
