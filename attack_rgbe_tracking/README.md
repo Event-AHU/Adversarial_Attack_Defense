@@ -56,9 +56,9 @@ bash Attack_RGB_Event_Frame/test.sh
 
 # :triangular_ruler: Evaluation Toolkit
 
-我基于 [CEUTrack](https://github.com/Event-AHU/COESOT) 修改了对应的评测脚本。
+I modified the corresponding evaluation script based on [CEUTrack](https://github.com/Event-AHU/COESOT).
 
-1.修改Evaluate_COESOT_benchmark_SP_RR_Only.m中的tracking_type后运行即可获取PR、SR和NPR的结果。
+1.To obtain the evaluation results of PR, SR, and NPR metrics, modify the tracking_type parameter in the Evaluate_COESOT_benchmark_SP_RR_Only.m script and execute it.
 
 2.run `Evaluate_FELT_benchmark_attributes.m` for attributes analysis and figure saved in `$/res_fig/`. 
 
