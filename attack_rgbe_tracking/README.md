@@ -28,12 +28,6 @@ Visual object tracking is a crucial research topic in the fields of computer vis
 <img src="https://github.com/Event-AHU/Adversarial_Attack_Defense/blob/main/attack_rgbe_tracking/framework.png" alt="framework" width="700"/>
 </p>
 
-
-
-
-
-
-
 In this study, we adopt the [CEUTrack](https://github.com/Event-AHU/COESOT) model as the target tracking architecture for adversarial attack analysis. To ensure reproducibility, please configure the conda environment according to the [CEUTrack ](https://github.com/Event-AHU/COESOT)official documentation and load the pre-trained weights provided.
 
 
@@ -54,7 +48,7 @@ bash Attack_RGB_Event_Frame/test.sh
 ```
 ```
 
-# :triangular_ruler: Evaluation Toolkit
+#:triangular_ruler: Evaluation Toolkit
 
 I modified the corresponding evaluation script based on [CEUTrack](https://github.com/Event-AHU/COESOT).
 
@@ -68,23 +62,3 @@ I modified the corresponding evaluation script based on [CEUTrack](https://githu
   <img width=50%" src="https://github.com/Event-AHU/Adversarial_Attack_Defense/blob/main/attack_rgbe_tracking/attribute_analysis.jpg" alt="Radar"/>
 </p>
 
-
-# :cupid: Acknowledgement 
-
-[[CEUTrack](https://github.com/Event-AHU/COESOT)] 
-[[VisEvent](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)] 
-[[FE108](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking)] 
-[[OSTrack](https://github.com/botaoye/OSTrack)] 
-
-# :newspaper: Citation 
-
-If you think this project is helpful, please feel free to leave a star ⭐️ and cite our paper:
-
-```bibtex
-@article{chen2025adversarial,
-  title={Adversarial Attack for RGB-Event based Visual Object Tracking},
-  author={Chen, Qiang and Wang, Xiao and Wang, Haowen and Jiang, Bo and Zhu, Lin and Zhang, Dawei and Tian, Yonghong and Tang, Jin},
-  journal={arXiv preprint arXiv:2504.14423},
-  year={2025}
-}
-```
