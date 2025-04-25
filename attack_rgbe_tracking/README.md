@@ -39,16 +39,19 @@ In this study, we adopt the [CEUTrack](https://github.com/Event-AHU/COESOT) mode
 
 ## Attack
 
-```
+```python
 #Attack RGB Event voxel:
 You can modify the attack parameters in Attack_RGB_Event_Voxel/experiments/ceutrack/ceutrack_coesot.yaml in order to get the raw tracking results and the results after the attack. 
 Later, execute the following command:
 bash Attack_RGB_Event_Voxel/test.sh
+```
 
+```python
 #Attack RGB Event frame:
 You can modify the attack parameters in Attack_RGB_Event_Frame/experiments/ceutrack/ceutrack_coesot.yaml in order to get the raw tracking results and the results after the attack. 
 Later, execute the following command:
 bash Attack_RGB_Event_Frame/test.sh
+```
 ```
 
 
