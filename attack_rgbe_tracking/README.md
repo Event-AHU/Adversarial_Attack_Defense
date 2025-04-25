@@ -46,7 +46,6 @@ You can modify the attack parameters in Attack_RGB_Event_Frame/experiments/ceutr
 Later, execute the following command:
 bash Attack_RGB_Event_Frame/test.sh
 ```
-```
 
 #:triangular_ruler: Evaluation Toolkit
 
@@ -61,4 +60,25 @@ I modified the corresponding evaluation script based on [CEUTrack](https://githu
 <p align="center">
   <img width=50%" src="https://github.com/Event-AHU/Adversarial_Attack_Defense/blob/main/attack_rgbe_tracking/attribute_analysis.jpg" alt="Radar"/>
 </p>
+
+
+# :cupid: Acknowledgement 
+
+[[CEUTrack](https://github.com/Event-AHU/COESOT)] 
+[[VisEvent](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)] 
+[[FE108](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking)] 
+[[OSTrack](https://github.com/botaoye/OSTrack)] 
+
+# :newspaper: Citation 
+
+If you think this project is helpful, please feel free to leave a star ⭐️ and cite our paper:
+
+```bibtex
+@article{chen2025adversarial,
+  title={Adversarial Attack for RGB-Event based Visual Object Tracking},
+  author={Chen, Qiang and Wang, Xiao and Wang, Haowen and Jiang, Bo and Zhu, Lin and Zhang, Dawei and Tian, Yonghong and Tang, Jin},
+  journal={arXiv preprint arXiv:2504.14423},
+  year={2025}
+}
+```
 
